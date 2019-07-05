@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.candycoded.arfoundation-components": "https://github.com/CandyCoded/ARFoundation-Components.git#upm",
+    "com.candycoded.candycoded": "https://github.com/CandyCoded/CandyCoded.git#upm",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.2.16",
@@ -7,6 +9,8 @@
     "com.unity.purchasing": "2.0.6",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.0.0",
+    "com.unity.xr.arfoundation": "2.2.0-preview.2",
+    "com.unity.xr.arkit": "2.1.0-preview.5",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -37,5 +41,15 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.candycoded.arfoundation-components": {
+      "hash": "a490fe911e2d321b47880d5dca17bc2e7b77a849",
+      "revision": "upm"
+    },
+    "com.candycoded.candycoded": {
+      "hash": "ef39cc76dbc6fc60fb15e1c929e5fe8de2ea2243",
+      "revision": "upm"
+    }
   }
 }
