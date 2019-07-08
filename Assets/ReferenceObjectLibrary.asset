@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f3b71a771f04aef8057fae3964fd78, type: 3}
+  m_Name: ReferenceObjectLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5288701450649785037
+  m_GuidHigh: 5828811037210871475
+  m_ReferenceObjects:
+  - m_GuidLow: 5678713711285092315
+    m_GuidHigh: 3297744954471700669
+    m_Name: Peanuts - Charlie Brown
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 4dc4812b41e1e46c595d3265167b387e, type: 3}
+  - m_GuidLow: 5717829525135885702
+    m_GuidHigh: 5591995379063850687
+    m_Name: TMNT - Donatello
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: fd0ccc557220d44769d326f911a3b333, type: 3}
+  - m_GuidLow: 4792862407029638323
+    m_GuidHigh: 6800994286210980749
+    m_Name: Jake and The Neverland Pirates - Cubby
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: f6faffc55e7a44e8e8cb54379ae0e41e, type: 3}
+  - m_GuidLow: 4632905856995540449
+    m_GuidHigh: 3353143706139655581
+    m_Name: Jake and The Neverland Pirates - Izzy
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: d39bcc543a2e547868d5a1908728a430, type: 3}
